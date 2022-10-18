@@ -5,7 +5,7 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Testing",
-    "path": "Testing.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }
