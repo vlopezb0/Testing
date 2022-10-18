@@ -45,7 +45,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Testing",
-    "path": "Testing.yyp",
+    "name": "Salas",
+    "path": "folders/Salas.yy",
   },
 }
