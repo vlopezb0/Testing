@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room4",
+  "name": "SalaEloy2",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
