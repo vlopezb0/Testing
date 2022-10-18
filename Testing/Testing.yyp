@@ -22,11 +22,8 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},},
-<<<<<<< HEAD
     {"roomId":{"name":"EloySala","path":"rooms/EloySala/EloySala.yy",},},
-=======
     {"roomId":{"name":"Monica","path":"rooms/Monica/Monica.yy",},},
->>>>>>> 85329ff8fbdb2c89cd2698cef992c0787248ed7f
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Conjuntos de casillas","folderPath":"folders/Conjuntos de casillas.yy","order":2,},
