@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
+  "name": "obj_player_v",
   "spriteId": {
-    "name": "spr_player_idle_down",
-    "path": "sprites/spr_player_idle_down/spr_player_idle_down.yy",
+    "name": "spr_player_idle_down_v",
+    "path": "sprites/spr_player_idle_down_v/spr_player_idle_down_v.yy",
   },
   "solid": false,
   "visible": true,
