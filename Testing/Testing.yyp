@@ -7,6 +7,7 @@
     {"id":{"name":"spr_player_idle_down","path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"Victor","path":"scripts/Victor/Victor.yy",},"order":0,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
     {"id":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},"order":0,},
   ],
   "Options": [
