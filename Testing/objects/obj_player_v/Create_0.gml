@@ -1,5 +1,10 @@
-/// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
+/// @description First code
 
-
-
+walkSpeed = 4;
+vx = 0;
+vy = 0;
+dir = 3;
+moveRight = 0;
+moveLeft = 0;
+moveUp = 0;
+moveDown = 0;
