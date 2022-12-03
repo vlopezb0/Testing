@@ -52,5 +52,15 @@ if (vx == 0 && vy == 0) {
 
 }
 
+// Colision
+nearbyNPC = collision_rectangle(x-lookRange,y-lookRange,x+lookRange,y+lookRange,obj_par_npc,false,true)
+
+if nearbyNPC {
+	show_debug_message("Te encontre");
+} else {
+	show_debug_message("Nada :C");
+}
+
+
 // Ordenamiento de profundidad
 depth=-y

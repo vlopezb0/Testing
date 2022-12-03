@@ -1,4 +1,4 @@
-/// @description First code
+/// @description
 
 walkSpeed = 4;
 vx = 0;
@@ -8,3 +8,5 @@ moveRight = 0;
 moveLeft = 0;
 moveUp = 0;
 moveDown = 0;
+nearbyNPC = noone;
+lookRange = 30;
